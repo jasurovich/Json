@@ -1,0 +1,86 @@
+[
+    {
+        "car_name": "Mercedes",
+        "contry": "Germany",
+        "price": "14500",
+        "color": "0xFF12345f",
+        "year": 2021,
+        "photo": "https://source.unsplash.com/random/1",
+        "model": [
+            {
+                "model_nomi": "AMG",
+                "benzinmi":true
+            }
+        ]
+    },
+    {
+        "car_name": "Lada",
+        "contry": "Russian",
+        "price": "14500",
+        "color": "0xFF12345f",
+        "year": 2019,
+        "photo": "https://source.unsplash.com/random/2",
+        "model": [
+            {
+                "model_nomi": "Vesta",
+                "benzinmi":false
+            }
+        ]
+    },
+    {
+        "car_name": "Lada",
+        "contry": "Russian",
+        "price": "14500",
+        "color": "0xFF12345f",
+        "year": 2019,
+        "photo": "https://source.unsplash.com/random/2",
+        "model": [
+            {
+                "model_nomi": "Vesta",
+                "benzinmi":false
+            }
+        ]
+    },
+    {
+        "car_name": "Lada",
+        "contry": "Russian",
+        "price": "14500",
+        "color": "0xFF12345f",
+        "year": 2019,
+        "photo": "https://source.unsplash.com/random/2",
+        "model": [
+            {
+                "model_nomi": "Vesta",
+                "benzinmi":false
+            }
+        ]
+    },
+    {
+        "car_name": "Lada",
+        "contry": "Russian",
+        "price": "14500",
+        "color": "0xFF12345f",
+        "year": 2019,
+        "photo": "https://source.unsplash.com/random/2",
+        "model": [
+            {
+                "model_nomi": "Vesta",
+                "benzinmi":false
+            }
+        ]
+    },
+    {
+        "car_name": "Lada",
+        "contry": "Russian",
+        "price": "14500",
+        "color": "0xFF12345f",
+        "year": 2019,
+        "photo": "https://source.unsplash.com/random/2",
+        "model": [
+            {
+                "model_nomi": "Vesta",
+                "benzinmi":false
+            }
+        ]
+    }
+]
