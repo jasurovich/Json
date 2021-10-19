@@ -1,4 +1,4 @@
-# yangi
+# Apps work with JSON
 
 A new Flutter project.
 
